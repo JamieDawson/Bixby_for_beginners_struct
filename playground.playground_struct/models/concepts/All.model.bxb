@@ -1,0 +1,12 @@
+structure (All) {
+  
+  property (text) {
+    type (core.Text)
+    min (Optional) max (One)
+  }
+
+  property (random_pic) {
+    type (core.BaseImage)
+    min (Optional) max (One)
+  }
+}

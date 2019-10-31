@@ -1,0 +1,5 @@
+action (Display_struct) {
+  description (And action to display a struct.)
+
+  output (All)
+}

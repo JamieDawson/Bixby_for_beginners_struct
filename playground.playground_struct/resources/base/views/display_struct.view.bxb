@@ -1,0 +1,18 @@
+result-view{
+  match: All (this)
+
+  render{
+    layout{
+      section{
+        content {
+          paragraph{
+            value("#{value(this.text)}")
+          }
+          image{
+            url("#{value(this.random_pic.url)}")
+          }
+        }
+      }
+    }
+  }
+}

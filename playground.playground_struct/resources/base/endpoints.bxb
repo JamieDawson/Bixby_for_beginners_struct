@@ -1,0 +1,8 @@
+endpoints {
+	action-endpoints {
+		 action-endpoint (Display_struct) {
+		  accepted-inputs ()
+		   local-endpoint (display_struct.js)
+		 }	
+	}
+}

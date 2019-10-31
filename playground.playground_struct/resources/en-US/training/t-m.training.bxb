@@ -1,0 +1,5 @@
+train (t-mdmvfwdweab4obioacwatz2nl) {
+  utterance ([g:Display_struct] show me how a struct works)
+  plan (Y2BiUCjISaxML8ovzUvRQzDji0uKSpNL9Bxzchi08apwySwGCUK5DIxAyADFQBIA)
+  last-modified (1572562478564)
+}
